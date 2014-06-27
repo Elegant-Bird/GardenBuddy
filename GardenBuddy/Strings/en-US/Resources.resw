@@ -227,27 +227,45 @@
     <comment>"Section1DescriptionText" duplicated three times.</comment>
   </data>
   <data name="Section1DescriptionText.Text" xml:space="preserve">
-    <value>Lorem ipsum dolor sit amet, consectetuer ising elit, sed diam nonummy nibh uismod tincidunt ut laoreet suscipit lobortis ni ut wisi quipexerci quis consequat minim veniam, quis nostrud exerci tation ullam corper. Lorem ipsum dolor sit amet, consectetuer ising elit, sed diam nonummy nibh uismod tincidunt ut laoreet suscipit lobortis ni ut wisi quipexerci quis consequat minim veniam, quis nostrud exerci tation ullam corper.</value>
+    <value>Testing</value>
   </data>
   <data name="Section1Header.Header" xml:space="preserve">
-    <value>Section 1</value>
+    <value>Planning Your Space</value>
   </data>
   <data name="Section1Subtitle.Text" xml:space="preserve">
     <value>Lorem ipsum dolor sit nonumy sed consectetuer ising elit, sed diam</value>
   </data>
   <data name="Section2Header.Header" xml:space="preserve">
-    <value>Section 2</value>
+    <value>Tools of the Trade</value>
   </data>
   <data name="Section3Header.Header" xml:space="preserve">
-    <value>Section 3</value>
+    <value>Plants</value>
   </data>
   <data name="Section3Subtitle.Text" xml:space="preserve">
     <value>Section subtitle</value>
   </data>
   <data name="Section4Header.Header" xml:space="preserve">
-    <value>Section 4</value>
+    <value>Soil</value>
   </data>
   <data name="Section2UnderTitle.Text" xml:space="preserve">
     <value>Quisque in porta lorem dolor amet sed consectetuer ising elit, sed diam non my nibh uis mod wisi quip.</value>
+  </data>
+  <data name="Section4Subtitle.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Section5DescriptionText.Text" xml:space="preserve">
+    <value>We're going to keep a 3 day weather forecast here for you at all times. </value>
+  </data>
+  <data name="Section5Header.Header" xml:space="preserve">
+    <value>Weather Tracker</value>
+  </data>
+  <data name="Section5Subtitle.Text" xml:space="preserve">
+    <value>Keep track of the weather so that you know what to expect</value>
+  </data>
+  <data name="Section6Header.Header" xml:space="preserve">
+    <value>Care Schedule</value>
+  </data>
+  <data name="Section6Subtitle.Text" xml:space="preserve">
+    <value>Caring for your plants</value>
   </data>
 </root>

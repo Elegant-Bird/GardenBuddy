@@ -1,0 +1,53 @@
+{"Groups":[
+  {
+    "UniqueId": "Plant-Types",
+    "Title": "Plant Types",
+    "Subtitle": "Select from one of the Plant Types below",
+    "ImagePath": "Assets/DarkGray.png",
+    "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+    "Items":
+    [
+      {
+        "UniqueId": "Plant-Types-Item-1",
+        "Title": "Perennials",
+        "Subtitle": "Item Subtitle: 1",
+        "ImagePath": "Assets/LightGray.png",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content" : "adfasdfadfad"
+      },
+      {
+        "UniqueId": "Plant-Types-Item-2",
+        "Title": "Flowers",
+        "Subtitle": "Item Subtitle: 2",
+        "ImagePath": "Assets/DarkGray.png",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content" : "aadfdadfadf"
+      },
+      {
+        "UniqueId": "Plant-Types-Item-3",
+        "Title": "Fruits",
+        "Subtitle": "Item Subtitle: 3",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content" : "adfadfadfa"
+      },
+      {
+        "UniqueId": "Plant-Types-Item-4",
+        "Title": "Vegetables",
+        "Subtitle": "Item Subtitle: 4",
+        "ImagePath": "Assets/DarkGray.png",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content" : "adfadfadf"
+      },
+      {
+        "UniqueId": "Plant-Types-Item-5",
+        "Title": "Seasonals",
+        "Subtitle": "Item Subtitle: 5",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content" : "dadfadf"
+      }
+    ]
+  }
+]
+}

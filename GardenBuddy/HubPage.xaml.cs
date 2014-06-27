@@ -48,7 +48,14 @@ namespace GardenBuddy
         {
             this.InitializeComponent();
             this.navigationHelper = new NavigationHelper(this);
+
+            //Set the hub section names
+            //var resource_loader = new Windows.ApplicationModel.Resources.ResourceLoader();
+            //this.Section2.Header = "Tools of the Trade";
+           
+
             this.navigationHelper.LoadState += navigationHelper_LoadState;
+
         }
 
         /// <summary>
@@ -66,7 +73,14 @@ namespace GardenBuddy
         {
             // TODO: Create an appropriate data model for your problem domain to replace the sample data
             var sampleDataGroup = await SampleDataSource.GetGroupAsync("Group-4");
-            this.DefaultViewModel["Section3Items"] = sampleDataGroup;
+            this.DefaultViewModel["Section4Items"] = sampleDataGroup;
+
+            sampleDataGroup = await SampleDataSource.GetGroupAsync("Group-1");
+            this.DefaultViewModel["Section6Items"] = sampleDataGroup;
+
+            // TODO: Create an appropriate data model for your problem domain to replace the sample data
+            var plantTypeDataGroup = await PlantTypeDataSource.GetGroupAsync("Plant-Types");
+            this.DefaultViewModel["Section3Items"] = plantTypeDataGroup;
         }
 
         /// <summary>
